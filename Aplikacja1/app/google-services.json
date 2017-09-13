@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "195038300559",
+    "firebase_url": "https://arekos-dd993.firebaseio.com",
+    "project_id": "arekos-dd993",
+    "storage_bucket": "arekos-dd993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195038300559:android:549895b6c2fd6e54",
+        "android_client_info": {
+          "package_name": "io.mokrzycki.arekosapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195038300559-d3v9tsval6vhhoj8h4r0pldtes2fq68a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.mokrzycki.arekosapplication",
+            "certificate_hash": "b36ecc010d21da7bcd384d6e0d32f158901d9c25"
+          }
+        },
+        {
+          "client_id": "195038300559-tk5u48vd05938r7t67lrgl8i8ppa7r0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_p7V2cdWa3sLd0WZcH8g-LXpoZESIkZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195038300559-tk5u48vd05938r7t67lrgl8i8ppa7r0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
